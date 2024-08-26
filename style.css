@@ -1,0 +1,42 @@
+body{
+    background: url('wp.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+
+}
+.myform{
+    
+    background: white;
+    background-color: rgba(0, 0, 0,.4);
+    width: 60%;
+    height: 100%;
+    padding: 25px 25px 25px 25px;
+    border-radius: 10px;
+    margin: auto;
+}
+.form-control{
+    background-color: rgba(0, 0, 0,.4);
+
+}
+label{
+    color:white;
+}
+.btn{
+    background-color: rgba(0, 0, 0,.4);
+    
+}
+.btnn{
+    text-align: center;
+}
+.table{
+    background-color: rgba(0, 0, 0,.4);
+    border-radius: 10px;
+}
